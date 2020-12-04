@@ -33,8 +33,8 @@ pause
 goto start
 :two
 cls
-echo You've selected Option 2 - Continue Building, this will continue from where you left off.
-echo Whether internet has been disconnected or you've accidentality closed this window
+echo You've selected Option 2 - Continue Building, this will continue from where you left off
+echo whether your internet has been disconnected or you've accidentally close this window
 pause
 cls
 echo The server building process is being continued... Please don't close this window
